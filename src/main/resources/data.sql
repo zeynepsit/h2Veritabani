@@ -1,0 +1,1 @@
+insert into public.kisiler(id,adi, soyadi) values (1,'zeynep', 'sit');
